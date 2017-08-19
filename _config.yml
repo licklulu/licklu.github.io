@@ -15,9 +15,9 @@ permalink: /:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
-
+port: 5000
 # highlight
-# 本地用rouge, github上用pygments
+# 本地用rouge, github上用pygments 
 # highlighter: pygments
 # highlighter: rouge
 # highlighter: false
